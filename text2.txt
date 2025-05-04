@@ -3,7 +3,7 @@ Step 1:
 Step 2:
        ->Add : git add hello.txt
 Step 3:
-       ->Commit : git commit -m "Added hello.txt"
+       ->Commit : git commit -m "Added text2.txt"
 Step 4:
        ->Push : git push origin main
              
