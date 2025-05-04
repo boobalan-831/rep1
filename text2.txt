@@ -1,3 +1,4 @@
+-----------Steps for github------------
 Step 1:
        ->Insert : git add text2.txt
 Step 2:
